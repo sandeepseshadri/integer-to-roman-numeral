@@ -85,7 +85,9 @@ class RomanNumeralConverterTest extends TestCase
             [900, 'CM'],
             [1000, 'M'],
             [4000, 'MMMM'],
-            [4999, 'MMMMCMXCIX']
+            [4999, 'MMMMCMXCIX'],
+            [100.5, 'CH'],
+            [100.6666, 'CH..']
         ];
     }
 }
