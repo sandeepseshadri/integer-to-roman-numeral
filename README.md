@@ -7,6 +7,10 @@ Roman Numerals system by default doesnt support floating point system. My implem
 | Fraction      | Symbol        | 
 | ------------- |:-------------:| 
 | 1/12          | .             | 
+| 1/12          | .             | 
+| 1/12          | .             | 
+| 1/12          | .             | 
+| 1/12          | .             | 
 1/12 => .
 1/6 => ..
 1/4 => ...
